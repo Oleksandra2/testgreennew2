@@ -5,8 +5,6 @@ parser: v2
 time: 70
 tags: [ tutorial>beginner, topic>javascript, tutorial>license ]
 primary_tag: topic>user-interface
-author_name: Lindsay Bert
-auto_validation: true
 
 ---
 
